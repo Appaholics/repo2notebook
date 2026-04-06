@@ -27,7 +27,7 @@ repo2notebook
 repo2notebook /path/to/your/repo
 ```
 
-**Output:** `_repo2notebook/notebook.md` — ready to upload to NotebookLM.
+**Output:** `_repo2notebook/` — ready to upload to NotebookLM.
 
 ### Alternative: Run Without Installing
 
