@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "repo2notebook"
-version = "1.0.0"
+version = "1.0.1"
 description = "Convert any code repository into a single markdown file for NotebookLM"
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
 authors = [
-    {name = "Appaholics"}
+    {name = "rvoidex7"}
 ]
 keywords = [
     "notebooklm",
@@ -36,9 +36,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Appaholics/repo2notebook"
-Repository = "https://github.com/Appaholics/repo2notebook"
-Issues = "https://github.com/Appaholics/repo2notebook/issues"
+Homepage = "https://github.com/rvoidex7/repo2notebook"
+Repository = "https://github.com/rvoidex7/repo2notebook"
+Issues = "https://github.com/rvoidex7/repo2notebook/issues"
 
 [project.scripts]
 repo2notebook = "repo2notebook:main"

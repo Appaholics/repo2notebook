@@ -1,0 +1,13 @@
+
+# repo2notebook
+# https://github.com/rvoidex7/repo2notebook
+_repo2notebook/
+repo2notebook.py
+
+# Python build artifacts
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo

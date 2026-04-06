@@ -1,5 +1,9 @@
 # repo2notebook
 
+[![PyPI version](https://badge.fury.io/py/repo2notebook.svg)](https://pypi.org/project/repo2notebook/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Convert any code repository into a single markdown file for [NotebookLM](https://notebooklm.google.com/) and other LLM tools.
 
 **Problem:** NotebookLM doesn't accept `.tsx`, `.py`, `.cs`, or most code files. You have to manually copy-paste everything.
@@ -28,7 +32,7 @@ repo2notebook /path/to/your/repo
 ### Alternative: Run Without Installing
 
 ```bash
-curl -O https://raw.githubusercontent.com/Appaholics/repo2notebook/main/repo2notebook.py
+curl -O https://raw.githubusercontent.com/rvoidex7/repo2notebook/main/repo2notebook.py
 python repo2notebook.py
 ```
 

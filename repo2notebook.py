@@ -8,7 +8,7 @@ Usage:
 
 Output: _repo2notebook/notebook.md
 
-GitHub: https://github.com/Appaholics/repo2notebook
+GitHub: https://github.com/rvoidex7/repo2notebook
 License: MIT
 """
 
@@ -23,7 +23,7 @@ from datetime import datetime
 # ============================================================================
 
 OUTPUT_DIR = "_repo2notebook"
-GITHUB_URL = "https://github.com/Appaholics/repo2notebook"
+GITHUB_URL = "https://github.com/rvoidex7/repo2notebook"
 
 # Always exclude (hardcoded, cannot override)
 ALWAYS_EXCLUDE_DIRS = {
